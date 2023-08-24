@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+
 require 'byebug'
 require_relative 'scraper'
 require_relative 'target'
